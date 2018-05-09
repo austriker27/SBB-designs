@@ -1,9 +1,9 @@
 {
   "_class": "group",
-  "do_objectID": "9D4781A0-CEBA-4F4B-8D00-5ABF5E44DA47",
+  "do_objectID": "8363EE65-850A-44AD-A50C-ACA8005700E5",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "EF5A616B-B33B-4E90-91BC-9FC4F29C7799",
+    "do_objectID": "6CBF72B5-7DBB-4E08-B38B-F0992BBCDBAB",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -14,33 +14,33 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "B9334E5C-F243-4930-A9A5-B438F3838B3C",
-    "height": 222,
-    "width": 526,
-    "x": 0,
-    "y": 242
+    "do_objectID": "F3AF334E-8901-428E-8B38-C223FAB2257B",
+    "height": 448,
+    "width": 256,
+    "x": 306,
+    "y": 766
   },
   "hasClickThrough": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
-  "isVisible": false,
+  "isVisible": true,
   "layerListExpandedType": 2,
   "layers": [
     {
       "class": "shapeGroup",
-      "id": "B9A0ACA4-629E-411F-8624-BC80BF1D37CF"
+      "id": "701AF90A-2F78-4634-815A-70E4F8716C16"
     }
   ],
-  "name": "noun_678881-seattleskyline",
-  "nameIsFixed": true,
+  "name": "noun_137301",
+  "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "ECD8392F-49FA-4B27-A39D-9396B7FE4D28",
+    "do_objectID": "6B24FBC9-5790-4A3A-87C8-95CA155ADF49",
     "endDecorationType": 0,
     "miterLimit": 10,
     "startDecorationType": 0

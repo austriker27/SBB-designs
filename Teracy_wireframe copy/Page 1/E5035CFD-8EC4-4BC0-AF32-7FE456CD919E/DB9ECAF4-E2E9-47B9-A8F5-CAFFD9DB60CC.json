@@ -26,11 +26,11 @@
             "alignment": 2
           }
         },
-        "length": 3,
+        "length": 5,
         "location": 0
       }
     ],
-    "string": "FAQ"
+    "string": "About"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "DB9ECAF4-E2E9-47B9-A8F5-CAFFD9DB60CC",
@@ -50,18 +50,18 @@
     "constrainProportions": false,
     "do_objectID": "E0293CDC-66EC-4A7B-A332-5B82DBF98CDF",
     "height": 38,
-    "width": 61,
-    "x": 1602,
-    "y": 10
+    "width": 91,
+    "x": 1513,
+    "y": 36
   },
-  "glyphBounds": "{{2, 6}, {56, 28}}",
+  "glyphBounds": "{{0, 6}, {90, 25}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "FAQ",
+  "name": "About",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
