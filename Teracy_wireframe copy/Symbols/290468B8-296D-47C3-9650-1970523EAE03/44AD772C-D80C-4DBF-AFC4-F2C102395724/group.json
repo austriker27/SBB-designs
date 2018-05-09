@@ -1,0 +1,50 @@
+{
+  "_class": "group",
+  "do_objectID": "44AD772C-D80C-4DBF-AFC4-F2C102395724",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 4,
+    "width": 62,
+    "x": 558,
+    "y": 23
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "2B14E1B4-C0BF-46A8-BA7A-2658A8ED140E"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "8927F420-0900-461D-849D-8A5C425B02E2"
+    }
+  ],
+  "name": "sound",
+  "nameIsFixed": true,
+  "originalObjectID": "44AD772C-D80C-4DBF-AFC4-F2C102395724",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

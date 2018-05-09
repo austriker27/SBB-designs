@@ -1,0 +1,58 @@
+{
+  "_class": "group",
+  "do_objectID": "A3B267C9-3105-4F6B-927B-6B2D18EEC036",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "1A706B26-0752-48A6-8BE7-70BD1694F8F8",
+    "height": 132,
+    "width": 460,
+    "x": 731,
+    "y": 1312
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "C8543D86-F05C-4205-97AE-CCA22E839759"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "DFA720BC-60DC-41E2-BD47-6D390ADFC0F5"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1DFBDB67-AFA1-4375-AD87-CBA2E43ACE98"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "EFA959FB-B969-4457-B231-D1315BD8665F"
+    }
+  ],
+  "name": "Progressbar",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}
