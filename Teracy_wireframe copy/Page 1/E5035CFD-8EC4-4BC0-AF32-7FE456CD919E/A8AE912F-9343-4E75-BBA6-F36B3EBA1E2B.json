@@ -9,9 +9,9 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.7215686274509803,
+            "blue": 1,
             "green": 1,
-            "red": 0.3803921568627451
+            "red": 1
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
@@ -81,9 +81,9 @@
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.7215686274509803,
+          "blue": 1,
           "green": 1,
-          "red": 0.3803921568627451
+          "red": 1
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",

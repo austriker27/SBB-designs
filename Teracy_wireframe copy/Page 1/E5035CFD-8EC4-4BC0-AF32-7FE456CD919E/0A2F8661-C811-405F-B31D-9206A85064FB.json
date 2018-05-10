@@ -27,11 +27,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 13,
+        "length": 17,
         "location": 0
       }
     ],
-    "string": "Tour Name #2\n"
+    "string": "Emerald City Tour"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "0A2F8661-C811-405F-B31D-9206A85064FB",
@@ -50,19 +50,19 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "CAC29198-FC0C-44E0-A234-33B732A797C9",
-    "height": 76,
-    "width": 218,
-    "x": 466,
+    "height": 38,
+    "width": 273,
+    "x": 438.5,
     "y": 2090
   },
-  "glyphBounds": "{{0, 6}, {215, 25}}",
+  "glyphBounds": "{{2, 6}, {269, 31}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Tour Name #2",
+  "name": "Emerald City Tour",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
