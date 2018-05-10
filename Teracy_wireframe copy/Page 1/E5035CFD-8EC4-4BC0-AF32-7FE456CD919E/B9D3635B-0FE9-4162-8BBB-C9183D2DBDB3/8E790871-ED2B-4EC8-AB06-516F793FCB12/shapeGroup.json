@@ -1,7 +1,7 @@
 {
   "_class": "shapeGroup",
   "clippingMaskMode": 0,
-  "do_objectID": "0A6FF4CC-358A-4FF0-A691-6E4F2F85BCF4",
+  "do_objectID": "8E790871-ED2B-4EC8-AB06-516F793FCB12",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -13,10 +13,10 @@
   },
   "frame": {
     "_class": "rect",
-    "constrainProportions": true,
-    "height": 22,
-    "width": 22,
-    "x": 312,
+    "constrainProportions": false,
+    "height": 131,
+    "width": 485,
+    "x": 0,
     "y": 0
   },
   "hasClickThrough": false,
@@ -25,16 +25,15 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
-      "class": "oval",
-      "id": "90543E8D-91FE-42E6-8C88-8FC24D934FAD"
+      "class": "rectangle",
+      "id": "7D5751AA-DEAC-4E34-9A4D-DE84E99821DA"
     }
   ],
-  "name": "Oval 24",
+  "name": "Rectangle 3",
   "nameIsFixed": false,
-  "originalObjectID": "0A6FF4CC-358A-4FF0-A691-6E4F2F85BCF4",
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
@@ -53,7 +52,7 @@
         },
         "fillType": 0,
         "isEnabled": false,
-        "position": 0,
+        "position": 1,
         "thickness": 1
       }
     ],
@@ -64,15 +63,15 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.9490196078431372,
-          "green": 0.9450980392156862,
-          "red": 0.9450980392156862
+          "blue": 0.7215686274509803,
+          "green": 1,
+          "red": 0.3803921568627451
         },
         "fillType": 0,
         "isEnabled": true,
         "noiseIndex": 0,
         "noiseIntensity": 0,
-        "patternFillType": 0,
+        "patternFillType": 1,
         "patternTileScale": 1
       }
     ],

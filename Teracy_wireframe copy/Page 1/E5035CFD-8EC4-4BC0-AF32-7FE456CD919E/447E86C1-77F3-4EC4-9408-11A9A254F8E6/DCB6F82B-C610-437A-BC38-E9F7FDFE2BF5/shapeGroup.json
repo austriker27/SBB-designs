@@ -1,9 +1,10 @@
 {
   "_class": "shapeGroup",
   "clippingMaskMode": 0,
-  "do_objectID": "0A6FF4CC-358A-4FF0-A691-6E4F2F85BCF4",
+  "do_objectID": "DCB6F82B-C610-437A-BC38-E9F7FDFE2BF5",
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "102402D7-B632-4655-8B1F-9D48E23AFDAF",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -13,11 +14,12 @@
   },
   "frame": {
     "_class": "rect",
-    "constrainProportions": true,
-    "height": 22,
-    "width": 22,
-    "x": 312,
-    "y": 0
+    "constrainProportions": false,
+    "do_objectID": "15FE1B85-E62F-4BB7-B947-2D2A369715D0",
+    "height": 15.47199999999999,
+    "width": 15.472,
+    "x": 15.243,
+    "y": 41.51300000000001
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -25,38 +27,22 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "oval",
-      "id": "90543E8D-91FE-42E6-8C88-8FC24D934FAD"
+      "id": "4499C8D5-FD50-475F-B43D-5911D7A8A2CB"
     }
   ],
-  "name": "Oval 24",
+  "name": "Oval",
   "nameIsFixed": false,
-  "originalObjectID": "0A6FF4CC-358A-4FF0-A691-6E4F2F85BCF4",
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "borders": [
-      {
-        "_class": "border",
-        "color": {
-          "_class": "color",
-          "alpha": 1,
-          "blue": 0.592,
-          "green": 0.592,
-          "red": 0.592
-        },
-        "fillType": 0,
-        "isEnabled": false,
-        "position": 0,
-        "thickness": 1
-      }
-    ],
+    "do_objectID": "8687A6D6-C107-4DA1-911E-610220D5EF7E",
     "endDecorationType": 0,
     "fills": [
       {
@@ -64,20 +50,20 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.9490196078431372,
-          "green": 0.9450980392156862,
-          "red": 0.9450980392156862
+          "blue": 0.3803921568627451,
+          "green": 0.4117647058823529,
+          "red": 1
         },
         "fillType": 0,
         "isEnabled": true,
         "noiseIndex": 0,
         "noiseIntensity": 0,
-        "patternFillType": 0,
+        "patternFillType": 1,
         "patternTileScale": 1
       }
     ],
     "miterLimit": 10,
     "startDecorationType": 0
   },
-  "windingRule": 1
+  "windingRule": 0
 }

@@ -30,7 +30,7 @@
         "location": 0
       }
     ],
-    "string": "Tours"
+    "string": "About"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "1993FFCD-F9C2-4FBE-B078-465D4C16C808",
@@ -50,18 +50,18 @@
     "constrainProportions": false,
     "do_objectID": "ECD90ACD-C302-46CF-A467-CB60DEC6B06E",
     "height": 38,
-    "width": 85,
-    "x": 1667,
+    "width": 91,
+    "x": 1664,
     "y": 36
   },
-  "glyphBounds": "{{0, 7}, {83, 24}}",
+  "glyphBounds": "{{0, 6}, {90, 25}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Tours",
+  "name": "About",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,

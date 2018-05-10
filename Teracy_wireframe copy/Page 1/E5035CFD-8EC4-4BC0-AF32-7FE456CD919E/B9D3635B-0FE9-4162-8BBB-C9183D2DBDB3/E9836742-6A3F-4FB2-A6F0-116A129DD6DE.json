@@ -9,32 +9,57 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.3803921568627451,
-            "green": 0.4117647058823529,
+            "blue": 1,
+            "green": 1,
             "red": 1
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
               "name": "Roboto-Medium",
-              "size": 40
+              "size": 48
             }
           },
-          "kerning": 1.25,
+          "kerning": 15.57999992370605,
           "paragraphStyle": {
             "_class": "paragraphStyle",
             "alignment": 2
-          },
-          "textStyleVerticalAlignmentKey": 0
+          }
         },
-        "length": 27,
+        "length": 7,
         "location": 0
+      },
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 1,
+            "green": 1,
+            "red": 1
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "Roboto-Medium",
+              "size": 48
+            }
+          },
+          "kerning": 0,
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 2
+          }
+        },
+        "length": 1,
+        "location": 7
       }
     ],
-    "string": "Welcome to Seattle By Bike\n"
+    "string": "BOOK NOW"
   },
   "automaticallyDrawOnUnderlyingPath": false,
-  "do_objectID": "CC47DD1D-615F-4560-81E4-EDBAC3D48786",
+  "do_objectID": "E9836742-6A3F-4FB2-A6F0-116A129DD6DE",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
@@ -48,19 +73,19 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 94,
-    "width": 522,
-    "x": 699,
-    "y": 920
+    "height": 57,
+    "width": 358,
+    "x": 64,
+    "y": 33
   },
-  "glyphBounds": "{{0, 7}, {520, 39}}",
+  "glyphBounds": "{{3, 10}, {354, 36}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Welcome to Seattle B",
+  "name": "BOOK NOW",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -77,23 +102,22 @@
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.3803921568627451,
-          "green": 0.4117647058823529,
+          "blue": 1,
+          "green": 1,
           "red": 1
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
             "name": "Roboto-Medium",
-            "size": 40
+            "size": 48
           }
         },
-        "kerning": 1.25,
+        "kerning": 15.57999992370605,
         "paragraphStyle": {
           "_class": "paragraphStyle",
           "alignment": 2
-        },
-        "textStyleVerticalAlignmentKey": 0
+        }
       },
       "verticalAlignment": 0
     }

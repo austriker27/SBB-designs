@@ -14,7 +14,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 352,
+    "height": 601,
     "width": 1920,
     "x": 0,
     "y": 112
@@ -32,8 +32,8 @@
       "id": "1B9A3673-B659-4D1A-A153-45BBF8E97B1A"
     }
   ],
-  "name": "Rectangle 2",
-  "nameIsFixed": false,
+  "name": "Top-banner",
+  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
