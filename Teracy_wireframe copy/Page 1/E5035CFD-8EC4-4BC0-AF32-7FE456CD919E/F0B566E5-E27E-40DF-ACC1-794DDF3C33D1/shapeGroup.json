@@ -1,10 +1,10 @@
 {
   "_class": "shapeGroup",
   "clippingMaskMode": 0,
-  "do_objectID": "27C04E48-D170-4AB3-B17D-BAB151CA610C",
+  "do_objectID": "F0B566E5-E27E-40DF-ACC1-794DDF3C33D1",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "B8657F8B-403A-4D97-8923-C456BF6F2DF5",
+    "do_objectID": "A5C4FA53-3B0A-46BF-8099-A4BBF262D515",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -15,11 +15,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "51F55D1B-CF4D-4300-9BDA-4786F64F0FF3",
-    "height": 279,
+    "do_objectID": "B67DBA11-8549-4931-9678-3B3F8CB914D9",
+    "height": 272,
     "width": 1920,
     "x": 0,
-    "y": 3721
+    "y": 3449
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -27,14 +27,14 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "rectangle",
-      "id": "CEA0B29C-3D2E-4F99-8D60-5531C3343088"
+      "id": "3EFE36FC-6D57-45E6-8305-4C72A8BC66F3"
     }
   ],
-  "name": "Footer-banner",
+  "name": "Quotes-banner",
   "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -58,7 +58,7 @@
         "thickness": 1
       }
     ],
-    "do_objectID": "0042B302-7884-425B-942F-C304A989882F",
+    "do_objectID": "845611F6-B68E-48F6-998A-F2EF4069FCFF",
     "endDecorationType": 0,
     "fills": [
       {
@@ -66,9 +66,9 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 1,
-          "green": 1,
-          "red": 1
+          "blue": 0.8470588235294118,
+          "green": 0.8470588235294118,
+          "red": 0.8470588235294118
         },
         "fillType": 0,
         "isEnabled": true,

@@ -16,29 +16,29 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Roboto-Medium",
-              "size": 32
+              "name": "Roboto-Light",
+              "size": 24
             }
           },
-          "kerning": 1.25,
+          "kerning": 1,
           "paragraphStyle": {
             "_class": "paragraphStyle",
-            "alignment": 2
+            "alignment": 0
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 13,
+        "length": 22,
         "location": 0
       }
     ],
-    "string": "Tour Name #2\n"
+    "string": "Details about the tour"
   },
   "automaticallyDrawOnUnderlyingPath": false,
-  "do_objectID": "0A2F8661-C811-405F-B31D-9206A85064FB",
+  "do_objectID": "FD888CE2-EAAB-480E-A4B4-32C45162034E",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "C2E289AE-556C-4C95-B633-A46D760DAEA2",
+    "do_objectID": "4A1CFFC6-0418-4925-8983-636874938A4F",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -49,20 +49,20 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "CAC29198-FC0C-44E0-A234-33B732A797C9",
-    "height": 76,
-    "width": 218,
-    "x": 466,
-    "y": 2090
+    "do_objectID": "C60FF156-842C-46B1-9C7F-5A0598B108AE",
+    "height": 28,
+    "width": 248,
+    "x": 132,
+    "y": 2907
   },
-  "glyphBounds": "{{0, 6}, {215, 25}}",
+  "glyphBounds": "{{2, 4}, {244, 19}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Tour Name #2",
+  "name": "Details about the to",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -70,13 +70,13 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "75D0F55F-44DA-487A-B688-CC293795C61F",
+    "do_objectID": "D1D862B8-411B-4CFD-AC09-796DCFEF945A",
     "endDecorationType": 0,
     "miterLimit": 10,
     "startDecorationType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "FC87E9C7-C3DF-4E3C-8260-ABC81015AEEC",
+      "do_objectID": "CA638D37-4643-401B-91A9-FC9544D2B007",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
@@ -88,14 +88,14 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Roboto-Medium",
-            "size": 32
+            "name": "Roboto-Light",
+            "size": 24
           }
         },
-        "kerning": 1.25,
+        "kerning": 1,
         "paragraphStyle": {
           "_class": "paragraphStyle",
-          "alignment": 2
+          "alignment": 0
         },
         "textStyleVerticalAlignmentKey": 0
       },
