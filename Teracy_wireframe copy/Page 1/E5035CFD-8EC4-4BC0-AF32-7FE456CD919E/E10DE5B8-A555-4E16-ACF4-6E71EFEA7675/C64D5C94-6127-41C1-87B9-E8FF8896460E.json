@@ -9,36 +9,61 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.3803921568627451,
-            "green": 0.4117647058823529,
+            "blue": 1,
+            "green": 1,
             "red": 1
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Roboto-Light",
-              "size": 24
+              "name": "Roboto-Medium",
+              "size": 48
             }
           },
-          "kerning": 1,
+          "kerning": 15.57999992370605,
           "paragraphStyle": {
             "_class": "paragraphStyle",
-            "alignment": 0
-          },
-          "textStyleVerticalAlignmentKey": 0
+            "alignment": 2
+          }
         },
-        "length": 21,
+        "length": 7,
         "location": 0
+      },
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 1,
+            "green": 1,
+            "red": 1
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "Roboto-Medium",
+              "size": 48
+            }
+          },
+          "kerning": 0,
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 2
+          }
+        },
+        "length": 1,
+        "location": 7
       }
     ],
-    "string": "South Lake Union Tour"
+    "string": "BOOK NOW"
   },
   "automaticallyDrawOnUnderlyingPath": false,
-  "do_objectID": "0345C2F7-094D-404B-883A-C1A8632D29D7",
+  "do_objectID": "C64D5C94-6127-41C1-87B9-E8FF8896460E",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "92088751-F6C6-43C2-8148-3499059D7B5F",
+    "do_objectID": "8BBD0CA1-FDF4-4164-A639-C78C7513B10B",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -49,20 +74,20 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "B50E0ACE-2577-4EF1-9AC2-BF1E963FB902",
-    "height": 28,
-    "width": 259,
-    "x": 1306,
-    "y": 2666
+    "do_objectID": "BD82E31E-005C-4C80-977A-9602AB6205D7",
+    "height": 57,
+    "width": 358,
+    "x": 64,
+    "y": 33
   },
-  "glyphBounds": "{{1, 4}, {256, 19}}",
+  "glyphBounds": "{{3, 10}, {354, 36}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "South Lake Union Tou",
+  "name": "BOOK NOW",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -70,34 +95,33 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "40D88D94-49AE-4AAC-ABC8-6515138DA680",
+    "do_objectID": "A6430546-F6B2-42B1-8D89-61CC0D0EB02E",
     "endDecorationType": 0,
     "miterLimit": 10,
     "startDecorationType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "AB9E2278-2DA1-4CB2-A650-3422E4D1D1B6",
+      "do_objectID": "9424F862-3056-47B1-928D-1055ABD8D905",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.3803921568627451,
-          "green": 0.4117647058823529,
+          "blue": 1,
+          "green": 1,
           "red": 1
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Roboto-Light",
-            "size": 24
+            "name": "Roboto-Medium",
+            "size": 48
           }
         },
-        "kerning": 1,
+        "kerning": 15.57999992370605,
         "paragraphStyle": {
           "_class": "paragraphStyle",
-          "alignment": 0
-        },
-        "textStyleVerticalAlignmentKey": 0
+          "alignment": 2
+        }
       },
       "verticalAlignment": 0
     }

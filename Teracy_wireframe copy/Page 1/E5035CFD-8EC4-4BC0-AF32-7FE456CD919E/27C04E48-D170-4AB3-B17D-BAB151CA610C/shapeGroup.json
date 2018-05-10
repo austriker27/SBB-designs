@@ -1,9 +1,10 @@
 {
   "_class": "shapeGroup",
   "clippingMaskMode": 0,
-  "do_objectID": "0A6FF4CC-358A-4FF0-A691-6E4F2F85BCF4",
+  "do_objectID": "27C04E48-D170-4AB3-B17D-BAB151CA610C",
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "B8657F8B-403A-4D97-8923-C456BF6F2DF5",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -13,11 +14,12 @@
   },
   "frame": {
     "_class": "rect",
-    "constrainProportions": true,
-    "height": 22,
-    "width": 22,
-    "x": 416,
-    "y": 0
+    "constrainProportions": false,
+    "do_objectID": "51F55D1B-CF4D-4300-9BDA-4786F64F0FF3",
+    "height": 272,
+    "width": 1920,
+    "x": 0,
+    "y": 3130
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -28,13 +30,12 @@
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "oval",
-      "id": "EAF43B47-0BAC-4813-B264-F9004B9F0B53"
+      "class": "rectangle",
+      "id": "CEA0B29C-3D2E-4F99-8D60-5531C3343088"
     }
   ],
-  "name": "Oval 25",
-  "nameIsFixed": false,
-  "originalObjectID": "0A6FF4CC-358A-4FF0-A691-6E4F2F85BCF4",
+  "name": "Footer-banner",
+  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
@@ -53,10 +54,11 @@
         },
         "fillType": 0,
         "isEnabled": false,
-        "position": 0,
+        "position": 1,
         "thickness": 1
       }
     ],
+    "do_objectID": "0042B302-7884-425B-942F-C304A989882F",
     "endDecorationType": 0,
     "fills": [
       {
@@ -64,15 +66,15 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.9490196078431372,
-          "green": 0.9450980392156862,
-          "red": 0.9450980392156862
+          "blue": 1,
+          "green": 1,
+          "red": 1
         },
         "fillType": 0,
         "isEnabled": true,
         "noiseIndex": 0,
         "noiseIntensity": 0,
-        "patternFillType": 0,
+        "patternFillType": 1,
         "patternTileScale": 1
       }
     ],

@@ -1,9 +1,9 @@
 {
   "_class": "group",
-  "do_objectID": "8363EE65-850A-44AD-A50C-ACA8005700E5",
+  "do_objectID": "3B3FFBC6-248F-4F06-8780-1BECC5D439F3",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "6CBF72B5-7DBB-4E08-B38B-F0992BBCDBAB",
+    "do_objectID": "16F8E6DC-0B7B-4A0B-A673-E84CE8247750",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -14,33 +14,37 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "F3AF334E-8901-428E-8B38-C223FAB2257B",
-    "height": 448,
-    "width": 256,
-    "x": 306,
-    "y": 1384
+    "do_objectID": "DFE291A5-BD67-483E-BAF2-94C1CA25264E",
+    "height": 131,
+    "width": 485,
+    "x": 960,
+    "y": 1752
   },
   "hasClickThrough": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "shapeGroup",
-      "id": "701AF90A-2F78-4634-815A-70E4F8716C16"
+      "id": "2F7CB05C-28C0-4521-BAB6-8B723AB27FC7"
+    },
+    {
+      "class": "text",
+      "id": "2333C665-2005-41C8-B2EB-F495C21AEF55"
     }
   ],
-  "name": "noun_137301",
-  "nameIsFixed": false,
+  "name": "Book Now CTA",
+  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "6B24FBC9-5790-4A3A-87C8-95CA155ADF49",
+    "do_objectID": "2F5160D7-CCB8-461E-AD03-182457543D9F",
     "endDecorationType": 0,
     "miterLimit": 10,
     "startDecorationType": 0

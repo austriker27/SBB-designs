@@ -1,9 +1,10 @@
 {
   "_class": "shapeGroup",
   "clippingMaskMode": 0,
-  "do_objectID": "0A6FF4CC-358A-4FF0-A691-6E4F2F85BCF4",
+  "do_objectID": "D37FF9D1-4347-4D2B-831F-A5FC126063AD",
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "9E1FDB37-AA61-47EC-B807-CDD886D1A826",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -13,11 +14,12 @@
   },
   "frame": {
     "_class": "rect",
-    "constrainProportions": true,
-    "height": 22,
-    "width": 22,
-    "x": 416,
-    "y": 0
+    "constrainProportions": false,
+    "do_objectID": "E8D2D25B-88F8-4EC2-8C4F-B8080752FAA5",
+    "height": 272,
+    "width": 1920,
+    "x": 0,
+    "y": 2858
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -25,16 +27,15 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
-      "class": "oval",
-      "id": "EAF43B47-0BAC-4813-B264-F9004B9F0B53"
+      "class": "rectangle",
+      "id": "FF2A4092-AA65-4ECD-A9ED-95707028BBAB"
     }
   ],
-  "name": "Oval 25",
-  "nameIsFixed": false,
-  "originalObjectID": "0A6FF4CC-358A-4FF0-A691-6E4F2F85BCF4",
+  "name": "Quotes-banner",
+  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
@@ -53,10 +54,11 @@
         },
         "fillType": 0,
         "isEnabled": false,
-        "position": 0,
+        "position": 1,
         "thickness": 1
       }
     ],
+    "do_objectID": "F06B2538-FFF6-4086-B9B3-D71EDAFF9A95",
     "endDecorationType": 0,
     "fills": [
       {
@@ -64,15 +66,15 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.9490196078431372,
-          "green": 0.9450980392156862,
-          "red": 0.9450980392156862
+          "blue": 0.3803921568627451,
+          "green": 0.4117647058823529,
+          "red": 1
         },
         "fillType": 0,
         "isEnabled": true,
         "noiseIndex": 0,
         "noiseIntensity": 0,
-        "patternFillType": 0,
+        "patternFillType": 1,
         "patternTileScale": 1
       }
     ],
