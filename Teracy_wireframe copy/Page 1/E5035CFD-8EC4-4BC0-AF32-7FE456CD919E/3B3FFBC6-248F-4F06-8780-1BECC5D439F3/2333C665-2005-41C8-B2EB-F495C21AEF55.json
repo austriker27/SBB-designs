@@ -17,7 +17,7 @@
             "_class": "fontDescriptor",
             "attributes": {
               "name": "Roboto-Medium",
-              "size": 48
+              "size": 32
             }
           },
           "kerning": 15.57999992370605,
@@ -43,7 +43,7 @@
             "_class": "fontDescriptor",
             "attributes": {
               "name": "Roboto-Medium",
-              "size": 48
+              "size": 32
             }
           },
           "kerning": 0,
@@ -75,12 +75,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "F815E6AF-1F10-40E4-8909-111802066427",
-    "height": 57,
-    "width": 358,
-    "x": 64,
-    "y": 33
+    "height": 86,
+    "width": 318,
+    "x": 0,
+    "y": 0
   },
-  "glyphBounds": "{{3, 10}, {354, 36}}",
+  "glyphBounds": "{{24, 6}, {272, 25}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -114,7 +114,7 @@
           "_class": "fontDescriptor",
           "attributes": {
             "name": "Roboto-Medium",
-            "size": 48
+            "size": 32
           }
         },
         "kerning": 15.57999992370605,
@@ -123,8 +123,8 @@
           "alignment": 2
         }
       },
-      "verticalAlignment": 0
+      "verticalAlignment": 1
     }
   },
-  "textBehaviour": 0
+  "textBehaviour": 2
 }

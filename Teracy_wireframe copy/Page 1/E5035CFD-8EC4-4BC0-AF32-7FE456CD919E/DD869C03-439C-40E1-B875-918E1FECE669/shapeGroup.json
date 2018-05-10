@@ -1,10 +1,10 @@
 {
   "_class": "shapeGroup",
   "clippingMaskMode": 0,
-  "do_objectID": "F0B566E5-E27E-40DF-ACC1-794DDF3C33D1",
+  "do_objectID": "DD869C03-439C-40E1-B875-918E1FECE669",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "A5C4FA53-3B0A-46BF-8099-A4BBF262D515",
+    "do_objectID": "A36E9736-6223-4F8E-ADE3-F9EFF1B48B72",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -15,8 +15,8 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "B67DBA11-8549-4931-9678-3B3F8CB914D9",
-    "height": 272,
+    "do_objectID": "98A29E73-0D3E-49BD-BBC5-F8134BA0CD97",
+    "height": 388,
     "width": 1920,
     "x": 0,
     "y": 3449
@@ -31,7 +31,7 @@
   "layers": [
     {
       "class": "rectangle",
-      "id": "3EFE36FC-6D57-45E6-8305-4C72A8BC66F3"
+      "id": "32D41FF1-D325-457E-8329-D4E8329AEAFB"
     }
   ],
   "name": "Quotes-banner",
@@ -58,7 +58,7 @@
         "thickness": 1
       }
     ],
-    "do_objectID": "845611F6-B68E-48F6-998A-F2EF4069FCFF",
+    "do_objectID": "15AFC1B8-811F-4FC9-941D-7AED257C8004",
     "endDecorationType": 0,
     "fills": [
       {

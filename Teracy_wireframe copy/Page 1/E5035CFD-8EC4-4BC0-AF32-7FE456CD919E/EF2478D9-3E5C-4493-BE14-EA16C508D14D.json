@@ -26,7 +26,7 @@
             "alignment": 0
           }
         },
-        "length": 16,
+        "length": 14,
         "location": 0
       },
       {
@@ -53,10 +53,10 @@
           }
         },
         "length": 1,
-        "location": 16
+        "location": 14
       }
     ],
-    "string": "Seattle \nBy \nBike"
+    "string": "Seattle By Bike"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "EF2478D9-3E5C-4493-BE14-EA16C508D14D",
@@ -75,12 +75,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "12C54BD0-5774-426E-9EF8-32142113B7EF",
-    "height": 114,
-    "width": 117,
-    "x": 111,
-    "y": 0
+    "height": 38,
+    "width": 244,
+    "x": 116,
+    "y": 29
   },
-  "glyphBounds": "{{1, 6}, {105, 101}}",
+  "glyphBounds": "{{1, 6}, {227, 31}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
