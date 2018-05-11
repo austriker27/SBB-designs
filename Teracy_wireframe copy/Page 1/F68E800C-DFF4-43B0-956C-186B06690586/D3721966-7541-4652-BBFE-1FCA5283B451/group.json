@@ -1,0 +1,70 @@
+{
+  "_class": "group",
+  "do_objectID": "D3721966-7541-4652-BBFE-1FCA5283B451",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "90D81497-9D41-46EB-B8CC-F0D61AA2A07C",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "9DD468D5-3A77-4A54-AC84-01A03EDE98C0",
+    "height": 810,
+    "width": 1919,
+    "x": 0,
+    "y": 5432
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "AEABD7B5-E675-4AA6-9CAB-78979E430013"
+    }
+  ],
+  "name": "noun_678881-seattleskyline",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "BF14D56E-70FB-42AB-8B10-BD797213F863",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "shadows": [
+      {
+        "_class": "shadow",
+        "blurRadius": 10,
+        "color": {
+          "_class": "color",
+          "alpha": 0.5,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "isEnabled": true,
+        "offsetX": 4,
+        "offsetY": 0,
+        "spread": 0
+      }
+    ],
+    "startDecorationType": 0
+  }
+}

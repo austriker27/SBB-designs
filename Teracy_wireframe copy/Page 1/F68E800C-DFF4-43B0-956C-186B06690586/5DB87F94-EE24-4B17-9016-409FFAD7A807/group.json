@@ -1,0 +1,65 @@
+{
+  "_class": "group",
+  "do_objectID": "5DB87F94-EE24-4B17-9016-409FFAD7A807",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 283,
+    "width": 248,
+    "x": 1265,
+    "y": 2043
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "28ACB792-3E37-4BC0-BA4C-6775CB2EAC8B"
+    },
+    {
+      "class": "text",
+      "id": "0674CF97-8DFC-4E6A-BE6D-9433C273925C"
+    },
+    {
+      "class": "text",
+      "id": "D1DD8B0E-DECF-48D7-BCEC-1FF97D410EB5"
+    },
+    {
+      "class": "text",
+      "id": "0B50BA69-55CE-40BF-834F-A6960EF0BD11"
+    },
+    {
+      "class": "text",
+      "id": "B071723C-8EAD-4E76-8EA7-7155F99A3C52"
+    },
+    {
+      "class": "text",
+      "id": "51029171-AE58-46D0-B370-D354AE94236D"
+    }
+  ],
+  "name": "Tour 2 List Items",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

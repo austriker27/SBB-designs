@@ -45,8 +45,16 @@
       "id": "E5035CFD-8EC4-4BC0-AF32-7FE456CD919E"
     },
     {
+      "class": "artboard",
+      "id": "F68E800C-DFF4-43B0-956C-186B06690586"
+    },
+    {
       "class": "group",
       "id": "8A06FCF0-BE80-4524-94DB-0C504A96A5C3"
+    },
+    {
+      "class": "group",
+      "id": "75CFCE96-EA80-474D-9557-90C76325265E"
     }
   ],
   "name": "Page 1",
