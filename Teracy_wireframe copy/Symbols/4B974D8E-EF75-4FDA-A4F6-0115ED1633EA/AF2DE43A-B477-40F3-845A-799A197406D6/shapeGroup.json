@@ -15,8 +15,8 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 40,
-    "width": 43,
-    "x": 257,
+    "width": 300,
+    "x": 0,
     "y": 0
   },
   "hasClickThrough": false,
@@ -29,10 +29,10 @@
   "layers": [
     {
       "class": "rectangle",
-      "id": "3B7F8E34-D071-4875-A719-86204B3E74C7"
+      "id": "A4961933-7890-42FA-94F6-7390777E86CA"
     }
   ],
-  "name": "btn",
+  "name": "base",
   "nameIsFixed": true,
   "originalObjectID": "AF2DE43A-B477-40F3-845A-799A197406D6",
   "resizingConstraint": 63,
@@ -47,9 +47,9 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.7607843137254902,
-          "green": 0.7529411764705882,
-          "red": 0.7450980392156863
+          "blue": 0.751594387755102,
+          "green": 0.734668389617033,
+          "red": 0.7177423914789637
         },
         "fillType": 0,
         "isEnabled": true,
@@ -57,6 +57,7 @@
         "thickness": 1
       }
     ],
+    "do_objectID": "017FE7A8-880F-4531-891C-38F80A074E43",
     "endDecorationType": 0,
     "fills": [
       {
@@ -64,9 +65,9 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.9490196078431372,
-          "green": 0.9450980392156862,
-          "red": 0.9450980392156862
+          "blue": 1,
+          "green": 1,
+          "red": 1
         },
         "fillType": 0,
         "isEnabled": true,
@@ -76,11 +77,10 @@
         "patternTileScale": 1
       }
     ],
-    "miterLimit": 10,
-    "startDecorationType": 0
-  },
-  "windingRule": 1
-} "blurRadius": 0,
+    "innerShadows": [
+      {
+        "_class": "innerShadow",
+        "blurRadius": 0,
         "color": {
           "_class": "color",
           "alpha": 0.5,
