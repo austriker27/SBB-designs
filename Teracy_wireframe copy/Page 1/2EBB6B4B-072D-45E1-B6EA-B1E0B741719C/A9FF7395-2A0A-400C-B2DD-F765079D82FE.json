@@ -1,0 +1,49 @@
+{
+  "_class": "bitmap",
+  "clippingMask": "{{0, 0}, {1, 1}}",
+  "do_objectID": "A9FF7395-2A0A-400C-B2DD-F765079D82FE",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "1E702D5C-A1D3-485C-875E-5896A9744340",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "fillReplacesImage": false,
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "A579D869-C2BC-4FBD-89F5-95F7F9A3391C",
+    "height": 1286,
+    "width": 1929,
+    "x": 0,
+    "y": -160
+  },
+  "image": {
+    "_class": "MSJSONFileReference",
+    "_ref": "images/81ae22482a0798571ef1bf31cdd6b3761d7b6b6e.png",
+    "_ref_class": "MSImageData"
+  },
+  "intendedDPI": 72,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "oakie-521742-unsplash",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "A71DCD39-676F-4F56-8DDE-8861059580EE",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}
