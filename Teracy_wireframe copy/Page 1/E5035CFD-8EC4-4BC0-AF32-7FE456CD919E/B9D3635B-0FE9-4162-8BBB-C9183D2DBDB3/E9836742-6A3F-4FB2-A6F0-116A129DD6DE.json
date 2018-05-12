@@ -26,37 +26,11 @@
             "alignment": 2
           }
         },
-        "length": 7,
+        "length": 5,
         "location": 0
-      },
-      {
-        "_class": "stringAttribute",
-        "attributes": {
-          "MSAttributedStringColorAttribute": {
-            "_class": "color",
-            "alpha": 1,
-            "blue": 1,
-            "green": 1,
-            "red": 1
-          },
-          "MSAttributedStringFontAttribute": {
-            "_class": "fontDescriptor",
-            "attributes": {
-              "name": "Roboto-Medium",
-              "size": 48
-            }
-          },
-          "kerning": 0,
-          "paragraphStyle": {
-            "_class": "paragraphStyle",
-            "alignment": 2
-          }
-        },
-        "length": 1,
-        "location": 7
       }
     ],
-    "string": "BOOK NOW"
+    "string": "TOURS"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "E9836742-6A3F-4FB2-A6F0-116A129DD6DE",
@@ -74,18 +48,18 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 57,
-    "width": 358,
-    "x": 64,
+    "width": 230,
+    "x": 128,
     "y": 33
   },
-  "glyphBounds": "{{3, 10}, {354, 36}}",
+  "glyphBounds": "{{1, 10}, {212, 36}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "BOOK NOW",
+  "name": "TOURS",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,

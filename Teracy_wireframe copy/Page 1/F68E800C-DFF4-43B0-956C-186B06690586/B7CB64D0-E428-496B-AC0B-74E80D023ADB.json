@@ -27,11 +27,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 18,
+        "length": 63,
         "location": 0
       }
     ],
-    "string": "Why Tour via Bike?"
+    "string": "We provide an experience of a lifetime, touring Seattle by bike"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "B7CB64D0-E428-496B-AC0B-74E80D023ADB",
@@ -49,18 +49,18 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 47,
-    "width": 356,
-    "x": 502,
-    "y": 801
+    "width": 1179,
+    "x": 371,
+    "y": 775
   },
-  "glyphBounds": "{{0, 7}, {354, 39}}",
+  "glyphBounds": "{{0, 6}, {1176, 40}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Why Tour via Bike?",
+  "name": "We provide an experi",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,

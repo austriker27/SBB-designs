@@ -1,9 +1,9 @@
 {
   "_class": "symbolInstance",
-  "do_objectID": "798702C9-D610-4386-9B28-EB31A3BD48E7",
+  "do_objectID": "E21FB91D-4AF6-4C89-83EC-C95163E057AB",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "92798DFF-836E-459C-83FD-266E8907B127",
+    "do_objectID": "F433FC1B-0F4C-4A81-98E0-242FD3E5E30D",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -14,11 +14,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "FFF6B6CE-A174-4E34-B423-BC2B743BBD7E",
-    "height": 466,
-    "width": 485,
-    "x": 1190,
-    "y": 2128
+    "do_objectID": "17F5CDE2-B443-4E30-8363-BF63650A124C",
+    "height": 550,
+    "width": 550,
+    "x": 1160,
+    "y": 2564
   },
   "horizontalSpacing": 0,
   "isFlippedHorizontal": false,
@@ -37,7 +37,7 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "ADC66427-8CA9-4BEF-B071-8937EE6152A4",
+    "do_objectID": "3725061E-C033-4A91-A065-132C54458B22",
     "endDecorationType": 0,
     "miterLimit": 10,
     "startDecorationType": 0

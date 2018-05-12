@@ -30,7 +30,7 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "C4943836-41AD-43A2-8EA0-545C73423CF1",
-    "height": 4000,
+    "height": 8000,
     "width": 1920,
     "x": 4259,
     "y": -803
@@ -137,10 +137,6 @@
       "id": "388E0747-076D-48F0-8DA3-83D3184CFB03"
     },
     {
-      "class": "text",
-      "id": "3BB402C9-B7DF-4073-8C02-432F76494B2D"
-    },
-    {
       "class": "group",
       "id": "5D1EF810-DC28-4473-AF94-50E1B293363E"
     },
@@ -218,7 +214,11 @@
     },
     {
       "class": "symbolInstance",
-      "id": "798702C9-D610-4386-9B28-EB31A3BD48E7"
+      "id": "E21FB91D-4AF6-4C89-83EC-C95163E057AB"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B4C9506F-CBEA-4BD8-A4F5-FCC81B37BF5E"
     }
   ],
   "name": "Browser",

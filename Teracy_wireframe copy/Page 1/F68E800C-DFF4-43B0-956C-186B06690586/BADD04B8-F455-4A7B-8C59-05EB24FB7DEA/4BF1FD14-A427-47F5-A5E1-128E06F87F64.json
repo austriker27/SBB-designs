@@ -26,37 +26,11 @@
             "alignment": 2
           }
         },
-        "length": 3,
+        "length": 5,
         "location": 0
-      },
-      {
-        "_class": "stringAttribute",
-        "attributes": {
-          "MSAttributedStringColorAttribute": {
-            "_class": "color",
-            "alpha": 1,
-            "blue": 1,
-            "green": 1,
-            "red": 1
-          },
-          "MSAttributedStringFontAttribute": {
-            "_class": "fontDescriptor",
-            "attributes": {
-              "name": "Roboto-Medium",
-              "size": 32
-            }
-          },
-          "kerning": 0,
-          "paragraphStyle": {
-            "_class": "paragraphStyle",
-            "alignment": 2
-          }
-        },
-        "length": 1,
-        "location": 3
       }
     ],
-    "string": "BOOK"
+    "string": "TOURS"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "4BF1FD14-A427-47F5-A5E1-128E06F87F64",
@@ -78,14 +52,14 @@
     "x": 0,
     "y": 0
   },
-  "glyphBounds": "{{49, 6}, {98, 25}}",
+  "glyphBounds": "{{34, 6}, {120, 25}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "BOOK",
+  "name": "TOURS",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
