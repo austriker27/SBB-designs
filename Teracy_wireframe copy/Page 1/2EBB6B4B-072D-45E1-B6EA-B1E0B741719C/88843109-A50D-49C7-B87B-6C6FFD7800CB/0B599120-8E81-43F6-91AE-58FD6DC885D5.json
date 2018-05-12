@@ -49,7 +49,7 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 28,
-    "width": 248,
+    "width": 305.9999999999999,
     "x": 0,
     "y": 255
   },
@@ -98,5 +98,5 @@
       "verticalAlignment": 0
     }
   },
-  "textBehaviour": 0
+  "textBehaviour": 1
 }

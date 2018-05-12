@@ -196,14 +196,6 @@
       "id": "BEDD2EFA-B11E-4F0F-BC5D-6BE050919FC9"
     },
     {
-      "class": "shapeGroup",
-      "id": "512C7F31-20D8-4672-90E2-B103A690C10E"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "49E11B6C-E6B6-4D88-8B50-A803BF857804"
-    },
-    {
       "class": "group",
       "id": "646C52A5-4DCB-4CB9-9634-D315AEB61E71"
     },
@@ -222,10 +214,6 @@
     {
       "class": "text",
       "id": "C8CA9EB7-E7A8-4C41-A3F8-36A47458E2E6"
-    },
-    {
-      "class": "group",
-      "id": "44DBD06F-D45E-4617-9AB2-5D03366C31AD"
     },
     {
       "class": "symbolInstance",
@@ -250,10 +238,6 @@
     {
       "class": "symbolInstance",
       "id": "F829186E-C86F-4D82-88E5-C845F82072B3"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "051048EA-D33D-44CA-97D7-F450D8526090"
     }
   ],
   "name": "Browser Copy 4",

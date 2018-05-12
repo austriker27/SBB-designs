@@ -49,11 +49,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 38,
-    "width": 258,
-    "x": 403,
-    "y": 1380
+    "width": 320,
+    "x": 422,
+    "y": 1480
   },
-  "glyphBounds": "{{2, 6}, {253, 31}}",
+  "glyphBounds": "{{33, 6}, {254, 31}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -98,5 +98,5 @@
       "verticalAlignment": 0
     }
   },
-  "textBehaviour": 0
+  "textBehaviour": 1
 }
