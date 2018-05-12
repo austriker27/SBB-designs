@@ -16,7 +16,7 @@
     "constrainProportions": true,
     "height": 22,
     "width": 22,
-    "x": 312,
+    "x": 416,
     "y": 0
   },
   "hasClickThrough": false,
@@ -29,10 +29,10 @@
   "layers": [
     {
       "class": "oval",
-      "id": "90543E8D-91FE-42E6-8C88-8FC24D934FAD"
+      "id": "EAF43B47-0BAC-4813-B264-F9004B9F0B53"
     }
   ],
-  "name": "Oval 24",
+  "name": "Oval 25",
   "nameIsFixed": false,
   "originalObjectID": "0A6FF4CC-358A-4FF0-A691-6E4F2F85BCF4",
   "resizingConstraint": 63,
