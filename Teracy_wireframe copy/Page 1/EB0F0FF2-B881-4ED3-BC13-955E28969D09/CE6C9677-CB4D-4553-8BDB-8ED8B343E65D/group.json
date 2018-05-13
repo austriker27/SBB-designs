@@ -1,0 +1,52 @@
+{
+  "_class": "group",
+  "do_objectID": "CE6C9677-CB4D-4553-8BDB-8ED8B343E65D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "982EBF01-CAD1-4212-BDE3-BA9FDA347696",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "419AC461-D0F6-4225-82E6-2229E7D39567",
+    "height": 88,
+    "width": 394,
+    "x": 500,
+    "y": 2853
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "39137663-DC83-48ED-B0A8-120A30C071C7"
+    },
+    {
+      "class": "text",
+      "id": "4B7E44C9-9541-4F82-A019-492252F01FC1"
+    }
+  ],
+  "name": "Book Now CTA",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "EE60436A-6CCD-4A48-98CB-D29A26B17114",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

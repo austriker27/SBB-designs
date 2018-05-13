@@ -53,6 +53,10 @@
       "id": "2EBB6B4B-072D-45E1-B6EA-B1E0B741719C"
     },
     {
+      "class": "artboard",
+      "id": "EB0F0FF2-B881-4ED3-BC13-955E28969D09"
+    },
+    {
       "class": "group",
       "id": "8A06FCF0-BE80-4524-94DB-0C504A96A5C3"
     },
@@ -63,6 +67,10 @@
     {
       "class": "group",
       "id": "59048E0F-A42D-41C7-A5CA-F787A095CE8E"
+    },
+    {
+      "class": "group",
+      "id": "120C0481-C42D-408B-8268-13B001121B27"
     }
   ],
   "name": "Page 1",
