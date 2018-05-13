@@ -16,7 +16,7 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Helvetica",
+              "name": "Helvetica-Bold",
               "size": 14
             }
           },
@@ -25,11 +25,11 @@
             "allowsDefaultTighteningForTruncation": 0
           }
         },
-        "length": 6,
+        "length": 12,
         "location": 0
       }
     ],
-    "string": "Hover "
+    "string": "Tab selected"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "BBB6C430-8AE6-4A07-BC7D-6FD359E4ED2C",
@@ -47,18 +47,18 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 17,
-    "width": 42,
-    "x": 754,
+    "width": 99,
+    "x": 283,
     "y": 19
   },
-  "glyphBounds": "{{0, 0}, {42, 17}}",
+  "glyphBounds": "{{0, 0}, {99, 17}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 0,
-  "name": "Hover ",
+  "name": "Tab selected",
   "nameIsFixed": false,
   "originalObjectID": "BBB6C430-8AE6-4A07-BC7D-6FD359E4ED2C",
   "resizingConstraint": 63,
@@ -83,7 +83,7 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Helvetica",
+            "name": "Helvetica-Bold",
             "size": 14
           }
         },
@@ -96,6 +96,4 @@
     }
   },
   "textBehaviour": 1
-} "textBehaviour": 1
-}
 }

@@ -85,10 +85,6 @@
     },
     {
       "class": "text",
-      "id": "36E99AB1-E83F-4018-829C-B6EC60C9D480"
-    },
-    {
-      "class": "text",
       "id": "60B30590-0F47-40FF-B9F4-4EC191ED9A23"
     },
     {
@@ -177,10 +173,6 @@
     },
     {
       "class": "group",
-      "id": "7B5A90E1-CB5B-4624-8217-98A22CB4D9ED"
-    },
-    {
-      "class": "group",
       "id": "54B621A2-B329-4029-A76A-18261FA369C7"
     },
     {
@@ -262,6 +254,10 @@
     {
       "class": "group",
       "id": "D143B30D-3DF2-4745-8951-09886FCA333B"
+    },
+    {
+      "class": "bitmap",
+      "id": "75705494-BEA8-4708-ABF9-94B7F765A417"
     }
   ],
   "name": "Browser Copy 6",
