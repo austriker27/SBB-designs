@@ -27,11 +27,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 13,
+        "length": 18,
         "location": 0
       }
     ],
-    "string": "Gasworks Park"
+    "string": "Seattle Waterfront"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "930F9BAC-21D3-4AC3-A148-DAE77C467B32",
@@ -51,18 +51,18 @@
     "constrainProportions": false,
     "do_objectID": "91683FCE-B452-426D-970B-2B1FA3F66FB7",
     "height": 28,
-    "width": 172,
-    "x": 1381,
+    "width": 209,
+    "x": 1353,
     "y": 1575
   },
-  "glyphBounds": "{{1, 4}, {169, 19}}",
+  "glyphBounds": "{{1, 3}, {207, 20}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Gasworks Park",
+  "name": "Seattle Waterfront",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,

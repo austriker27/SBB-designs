@@ -27,11 +27,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 16,
+        "length": 18,
         "location": 0
       }
     ],
-    "string": "The Amazon Domes"
+    "string": "The Amazon Spheres"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "6D432215-2ED7-4D6E-8569-3E5D17E9913D",
@@ -51,18 +51,18 @@
     "constrainProportions": false,
     "do_objectID": "6FA59D44-59CA-4318-9ECE-CCED29B33E31",
     "height": 28,
-    "width": 230,
-    "x": 676,
+    "width": 243,
+    "x": 634,
     "y": 1575
   },
-  "glyphBounds": "{{0, 4}, {228, 19}}",
+  "glyphBounds": "{{0, 4}, {240, 23}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "The Amazon Domes",
+  "name": "The Amazon Spheres",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
