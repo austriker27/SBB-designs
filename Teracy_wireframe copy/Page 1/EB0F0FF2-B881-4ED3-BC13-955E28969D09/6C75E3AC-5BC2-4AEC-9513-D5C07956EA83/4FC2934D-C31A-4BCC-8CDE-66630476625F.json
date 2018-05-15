@@ -16,11 +16,11 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Roboto-MediumItalic",
-              "size": 32
+              "name": "Roboto-BoldItalic",
+              "size": 40
             }
           },
-          "kerning": 1.25,
+          "kerning": 1.5625,
           "paragraphStyle": {
             "_class": "paragraphStyle",
             "alignment": 2
@@ -50,12 +50,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "F258CB8C-C4C1-453F-B4CD-DE133B17B336",
-    "height": 38,
+    "height": 47,
     "width": 720,
-    "x": 0,
-    "y": 37.90721649484536
+    "x": 30,
+    "y": 31
   },
-  "glyphBounds": "{{85, 6}, {550, 31}}",
+  "glyphBounds": "{{13, 7}, {693, 39}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -88,11 +88,11 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Roboto-MediumItalic",
-            "size": 32
+            "name": "Roboto-BoldItalic",
+            "size": 40
           }
         },
-        "kerning": 1.25,
+        "kerning": 1.5625,
         "paragraphStyle": {
           "_class": "paragraphStyle",
           "alignment": 2

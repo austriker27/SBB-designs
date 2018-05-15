@@ -249,10 +249,6 @@
     },
     {
       "class": "group",
-      "id": "5E982228-D126-4BA2-AC58-D4F5B31DC135"
-    },
-    {
-      "class": "group",
       "id": "6C75E3AC-5BC2-4AEC-9513-D5C07956EA83"
     },
     {
@@ -262,6 +258,10 @@
     {
       "class": "bitmap",
       "id": "75705494-BEA8-4708-ABF9-94B7F765A417"
+    },
+    {
+      "class": "group",
+      "id": "8DCBD380-5901-438B-8F97-04702E863920"
     }
   ],
   "name": "Browser Copy 6",
