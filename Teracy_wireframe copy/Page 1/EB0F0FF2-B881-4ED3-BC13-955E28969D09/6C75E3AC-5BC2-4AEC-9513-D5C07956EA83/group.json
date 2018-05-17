@@ -16,9 +16,9 @@
     "constrainProportions": false,
     "do_objectID": "74A1444F-8917-4532-9558-4F69C1800C7D",
     "height": 120,
-    "width": 780,
-    "x": 570,
-    "y": 786
+    "width": 1920,
+    "x": 0,
+    "y": 1006
   },
   "hasClickThrough": false,
   "isFlippedHorizontal": false,
@@ -69,7 +69,7 @@
           "blendMode": 0,
           "opacity": 1
         },
-        "isEnabled": true,
+        "isEnabled": false,
         "offsetX": 0,
         "offsetY": 0,
         "spread": 0
