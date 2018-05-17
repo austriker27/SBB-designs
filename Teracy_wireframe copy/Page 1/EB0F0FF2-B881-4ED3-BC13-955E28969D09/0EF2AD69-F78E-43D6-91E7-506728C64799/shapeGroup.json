@@ -23,7 +23,7 @@
   "hasClippingMask": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
-  "isLocked": true,
+  "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 1,
   "layers": [
@@ -63,9 +63,9 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.8470588235294118,
-          "green": 0.8470588235294118,
-          "red": 0.8470588235294118
+          "blue": 0.9114596869440446,
+          "green": 0.9114596869440446,
+          "red": 0.9162680697278912
         },
         "fillType": 0,
         "isEnabled": true,
