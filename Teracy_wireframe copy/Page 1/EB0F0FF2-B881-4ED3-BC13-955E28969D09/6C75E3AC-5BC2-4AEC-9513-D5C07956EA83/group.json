@@ -15,10 +15,10 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "74A1444F-8917-4532-9558-4F69C1800C7D",
-    "height": 120,
+    "height": 474,
     "width": 1920,
     "x": 0,
-    "y": 1006
+    "y": 652
   },
   "hasClickThrough": false,
   "isFlippedHorizontal": false,
@@ -48,7 +48,7 @@
       "_class": "graphicsContextSettings",
       "blendMode": 0,
       "do_objectID": "A4417F69-47D7-4F0D-B23B-3EDE3164C5A5",
-      "opacity": 0.6997209821428572
+      "opacity": 0.8
     },
     "do_objectID": "E390029F-D6C4-4A3A-ADF8-71AC1D7D8825",
     "endDecorationType": 0,

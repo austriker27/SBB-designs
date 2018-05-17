@@ -19,14 +19,14 @@
     "height": 120,
     "width": 1920,
     "x": 0,
-    "y": 0
+    "y": 354
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
-  "isVisible": true,
+  "isVisible": false,
   "layerListExpandedType": 1,
   "layers": [
     {
