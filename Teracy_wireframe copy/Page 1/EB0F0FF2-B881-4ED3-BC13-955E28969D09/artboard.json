@@ -35,7 +35,7 @@
     "y": -803
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -268,8 +268,8 @@
       "id": "8DCBD380-5901-438B-8F97-04702E863920"
     }
   ],
-  "name": "Browser Copy 6",
-  "nameIsFixed": false,
+  "name": "Final Prototype",
+  "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 0,
     "height": 1080,
