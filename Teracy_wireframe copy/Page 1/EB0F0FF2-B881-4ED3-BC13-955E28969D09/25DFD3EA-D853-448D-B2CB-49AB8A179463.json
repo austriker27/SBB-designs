@@ -27,11 +27,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 26,
+        "length": 16,
         "location": 0
       }
     ],
-    "string": "Frequently Asked Questions"
+    "string": "Common Questions"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "25DFD3EA-D853-448D-B2CB-49AB8A179463",
@@ -49,18 +49,18 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 38,
-    "width": 434,
+    "width": 304,
     "x": 751,
     "y": 3342
   },
-  "glyphBounds": "{{2, 6}, {429, 31}}",
+  "glyphBounds": "{{1, 6}, {301, 28}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Frequently Asked Que",
+  "name": "Common Questions",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,

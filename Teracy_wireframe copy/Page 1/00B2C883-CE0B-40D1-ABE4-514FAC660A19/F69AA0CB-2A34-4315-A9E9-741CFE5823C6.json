@@ -1,0 +1,47 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "F69AA0CB-2A34-4315-A9E9-741CFE5823C6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "CFC690B7-C72A-4B97-AE9C-E01198F1DBF3",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "6B18711D-FBEA-4A81-BA0E-80AD891B1B19",
+    "height": 60,
+    "width": 60,
+    "x": 1070,
+    "y": 1534
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Ava circle 60x60",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "092B0018-8A8B-4D94-81BA-BD8D415D686F",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "36D1D3E6-AF56-46BA-B6DA-474E8235D346",
+  "verticalSpacing": 0
+}

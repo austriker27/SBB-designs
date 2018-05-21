@@ -172,6 +172,14 @@
       "id": "6A338EFB-B809-49CC-A408-D125A4641AFE"
     },
     {
+      "class": "symbolInstance",
+      "id": "6E60456E-8382-4847-ADCB-32EFF40EFA43"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "5F534C99-4E56-45AE-B186-BCD23DC20082"
+    },
+    {
       "class": "text",
       "id": "FA1D85E1-5AEE-4D43-B07F-A52569ED5B78"
     },
@@ -210,6 +218,14 @@
     {
       "class": "text",
       "id": "5C31406C-E381-4A10-B347-D88DFC5025F4"
+    },
+    {
+      "class": "text",
+      "id": "016BAD01-CFE7-4D17-A380-465D98D19E8B"
+    },
+    {
+      "class": "text",
+      "id": "8AD557B2-4361-4C6E-9759-54B80C9D3080"
     },
     {
       "class": "text",

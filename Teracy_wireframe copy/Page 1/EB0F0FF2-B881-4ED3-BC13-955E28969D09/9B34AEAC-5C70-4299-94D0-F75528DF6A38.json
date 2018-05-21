@@ -27,11 +27,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 84,
+        "length": 109,
         "location": 0
       }
     ],
-    "string": "Visit all the awesome Seattle site up close and personal via guided tours on bicycle"
+    "string": "We provide bikes, guides and history lessons, you provide the leg power for a leisurely tour through Seattle."
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "9B34AEAC-5C70-4299-94D0-F75528DF6A38",
@@ -51,18 +51,18 @@
     "constrainProportions": false,
     "do_objectID": "7F1A5940-2144-4129-B199-6BCCD9FD65F2",
     "height": 38,
-    "width": 1291,
-    "x": 315,
+    "width": 1662,
+    "x": 129,
     "y": 1280
   },
-  "glyphBounds": "{{0, 6}, {1288, 31}}",
+  "glyphBounds": "{{0, 5}, {1658, 32}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Visit all the awesom",
+  "name": "We provide bikes, gu",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
