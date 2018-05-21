@@ -1,6 +1,6 @@
 {
   "_class": "group",
-  "do_objectID": "D143B30D-3DF2-4745-8951-09886FCA333B",
+  "do_objectID": "731987DB-E9F6-425C-86E2-BE0A377CE4CB",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -13,36 +13,36 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 113,
-    "width": 1148,
-    "x": 386,
-    "y": 1418
+    "height": 28,
+    "width": 1300,
+    "x": 310,
+    "y": 1575
   },
   "hasClickThrough": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "symbolInstance",
-      "id": "A1D055B1-9FE0-4ECF-8A15-101C1F81C067"
+      "class": "text",
+      "id": "6D432215-2ED7-4D6E-8569-3E5D17E9913D"
     },
     {
-      "class": "symbolInstance",
-      "id": "90295577-AED5-45ED-9AC7-EA361D2FC2D3"
+      "class": "text",
+      "id": "53E13D2B-8074-4FAF-A208-8039397946E1"
     },
     {
-      "class": "symbolInstance",
-      "id": "5A59A3C0-7133-48C1-B48C-FCB2C7EC6154"
+      "class": "text",
+      "id": "930F9BAC-21D3-4AC3-A148-DAE77C467B32"
     },
     {
-      "class": "symbolInstance",
-      "id": "21BBF423-F84E-4068-882C-E9FBD2666487"
+      "class": "text",
+      "id": "81CDE71A-0ED3-4390-A471-8A3527EF877C"
     }
   ],
-  "name": "Seattle Site Attractions",
+  "name": "Features Text",
   "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
